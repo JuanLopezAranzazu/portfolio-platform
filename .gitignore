@@ -9,3 +9,5 @@ cdk.out
 
 *.pem
 !keys/cloudfront-public-key.pem
+
+.env
